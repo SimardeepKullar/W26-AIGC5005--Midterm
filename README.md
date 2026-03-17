@@ -84,6 +84,24 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ---
 
+## Results Overview
+
+| Metric | no (low-risk) | yes (high-risk) |
+|---|---|---|
+| Precision | 0.97 | 0.11 |
+| Recall | 0.65 | 0.72 |
+| F1-Score | 0.78 | 0.19 |
+| Support | 5,651 | 349 |
+
+| | Value |
+|---|---|
+| Overall Accuracy | 65% |
+| Test Set Size | 6,000 orders |
+
+**Note:** The 70% F1-score target for the yes (high-risk) class was not reached. This is primarily due to severe class imbalance (94.2% / 5.8%) combined with weak individual feature correlations — the strongest predictor has a correlation of only ~0.10 with the target. Logistic Regression as a linear model cannot capture the non-linear feature interactions that would be needed to push performance higher.
+
+---
+
 ## Model Details
 
 - **Algorithm:** Logistic Regression
