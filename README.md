@@ -119,7 +119,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 | AUC | 0.74 |
 | Test Set Size | 6,000 orders |
 
-**Note:** The 70% F1-score target for the yes (high-risk) class was not reached. This is due to three compounding limitations: (1) severe class imbalance (94.2% / 5.8%), (2) weak individual feature correlations — the strongest predictor has a correlation of only ~0.10 with the target, and (3) logistic regression's linear decision boundary, which cannot capture the non-linear feature relationships present in this dataset. Threshold tuning improved the high-risk F1-score from 0.19 to 0.28 — a 47% relative improvement — by raising the decision threshold from 0.50 to 0.68.
+**Note:** The 70% F1-score target for the yes (high-risk) class was not reached. This is due to three compounding limitations: (1) severe class imbalance (94.2% / 5.8%), (2) weak individual feature correlations (the strongest predictor has a correlation of only ~0.10 with the target), and (3) logistic regression's linear decision boundary, which cannot capture the non-linear feature relationships present in this dataset. Threshold tuning improved the high-risk F1-score from 0.19 to 0.28 by raising the decision threshold from 0.50 to 0.68.
 
 ---
 
