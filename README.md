@@ -1,5 +1,13 @@
 # W26-AIGC5005--Midterm
 ## Payment Default Risk Classification
+## Group Members
+
+| Name | Student ID |
+|---|---|
+| Simardeep Kullar | n10008693 |
+| Pravdeep Kullar | n01430968 |
+| Udeme Akpausoh | n01495603 |
+| Istikbal Turut | n01404444 |
 
 ---
 
