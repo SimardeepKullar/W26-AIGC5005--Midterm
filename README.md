@@ -1,6 +1,6 @@
 # W26-AIGC5005--Midterm
 ## Payment Default Risk Classification
-## Group Members
+## Group 4 Members
 
 | Name | Student ID |
 |---|---|
