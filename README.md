@@ -25,6 +25,12 @@ This project builds a Logistic Regression model to classify online purchase orde
 |---|---|
 | `midterm.ipynb` | Main notebook containing all code, outputs, and visualizations |
 | `risk-train.txt` | Dataset — 30,000 orders, tab-separated, `?` used for missing values |
+| `` | Word Document containing professional report |
+| `` | PowerPoint containing slides for recording |
+| `` | Recording |
+
+If the recording file does not work here is a link to the video
+- https://teams.microsoft.com/l/meetingrecap?driveId=b%219z-2cGZVRk24rvnbtIfqgqx3BEm7ik5Kg8YIXoJV1UWSC6_u8kVHRKZUPVaWa068&driveItemId=01UH54QSVPCRBHABXKZBG23KH3KQJWQJQU&sitePath=https%3A%2F%2Fhumberital-my.sharepoint.com%2Fpersonal%2Fn01495603_humber_ca%2FDocuments%2FRecordings%2FMeeting+with+UDEME+AKPAUSOH-20260323_205351-Meeting+Recording.mp4&fileUrl=https%3A%2F%2Fhumberital-my.sharepoint.com%2Fpersonal%2Fn01495603_humber_ca%2FDocuments%2FRecordings%2FMeeting+with+UDEME+AKPAUSOH-20260323_205351-Meeting+Recording.mp4&threadId=19%3Ameeting_MDFjNzNkMzMtZjI2Ni00NjgzLTgyMGQtM2RiMGU3NTdkNGJi%40thread.v2&organizerId=9974aae5-f0e2-4375-85f6-9d22e39b2f96&tenantId=ca92071f-f342-40c7-8385-6997a60526cc&callId=340e09e2-743b-485b-b7b4-47fbe8583a53&threadType=meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapCore
 
 ---
 
